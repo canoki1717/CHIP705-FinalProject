@@ -1,0 +1,12 @@
+feature,missing_percent,feature_label
+ef__vrest,0.0,Resting potential (mV)
+ef__avg_firing_rate,5.350248207391065,Average firing rate (spikes/s)
+ef__ri,0.0,Input resistance (MΩ)
+ef__tau,0.0,Membrane time constant (ms)
+ef__adaptation,11.583011583011583,Adaptation index
+ef__avg_isi,5.350248207391065,Average interspike interval (ms)
+ef__f_i_curve_slope,0.0,F-I curve slope (spikes/s/pA)
+ef__fast_trough_v_long_square,0.0,Fast AP trough (mV)
+ef__peak_t_ramp,3.1991174848317705,Ramp spike time (s)
+ef__threshold_i_long_square,0.0,Threshold current (pA)
+ef__upstroke_downstroke_ratio_long_square,0.0,Upstroke/downstroke ratio

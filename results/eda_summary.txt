@@ -1,0 +1,23 @@
+CHIP 705 neuron project: initial data profile
+Rows in primary cohort: 1,813
+Unique specimen IDs: 1,813
+Class counts: {'aspiny': 921, 'spiny': 892}
+Mouse lines represented: 37
+Lines containing both labels: 19
+Lines containing only one label: 18
+
+Missing values in candidate predictors:
+                   feature_label  missing_percent
+          Resting potential (mV)         0.000000
+  Average firing rate (spikes/s)         5.350248
+           Input resistance (MΩ)         0.000000
+     Membrane time constant (ms)         0.000000
+                Adaptation index        11.583012
+Average interspike interval (ms)         5.350248
+   F-I curve slope (spikes/s/pA)         0.000000
+             Fast AP trough (mV)         0.000000
+             Ramp spike time (s)         3.199117
+          Threshold current (pA)         0.000000
+       Upstroke/downstroke ratio         0.000000
+
+Interpretation note: mouse line and dendrite label may be associated. Do not use mouse line as a predictor. A random cell-level split may overstate performance; use grouped validation by mouse line if feasible.
