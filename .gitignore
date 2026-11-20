@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/raw/*.csv
+data/allen_mouse_spiny_aspiny_analysis.csv
+results/out_of_fold_predictions.csv
